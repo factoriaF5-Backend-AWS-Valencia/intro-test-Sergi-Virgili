@@ -5,7 +5,7 @@
 // Declara un objeto "person" que contiene "name", "age", "isStudent"
 // Declara una array(lista) "subjects" que contiene 3 sujetos que los/las estudiantes van a estudiar
 
- let name = ''; // Your name here
+ let name = 'a'; // Your name here
  let age = 0; // Your age here
  let isStudent = false; // true or false
  let person = {
